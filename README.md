@@ -1,5 +1,5 @@
 ### Hi👋
-- 👻 I'm y.
+- 👻 I'm yangyang.
 - 🔭 I’m currently working on NCU.
 - 📫 How to reach me: peigen70722@gmail.com
 - 🐈 I love cats .
