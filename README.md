@@ -1,8 +1,7 @@
 ### Hi👋
-- 👻 I'm yangyang.
-- 🔭 I’m currently working on NCU.
+- 👻 I'm Pei Ling.
+- 🔭 I’m currently studying in NCU.
 - 📫 How to reach me: peigen70722@gmail.com
-- 🐈 I love cats .
 <!--
 **yyang0409/yyang0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
