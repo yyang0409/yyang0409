@@ -1,7 +1,7 @@
-### Hi👋
-- 👻 I'm Pei Ling.
-- 🔭 I’m currently studying in NCU.
-- 📫 How to reach me: peigen70722@gmail.com
+### Hello ͛.*
+- 👩🏻‍💻Pei Ling Yang
+- 🏫NCCUMIS
+- 📪peigen70722@gmail.com 
 <!--
 **yyang0409/yyang0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
