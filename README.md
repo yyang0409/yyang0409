@@ -1,16 +1,39 @@
-### Hello ͛.*
-- 👩🏻‍💻Pei Ling Yang
-- 🏫NCCUMIS
-- 📪peigen70722@gmail.com 
-<!--
-**yyang0409/yyang0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Pei-Ling Yang.
 
-Here are some ideas to get you started:
+I’m a passionate learner and builder in the field of Information Management and Natural Language Processing (NLP). My academic journey and project experience have focused on extracting insights from unstructured data through text mining.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- 📌 **Master's in Information Management**  
+  National Chengchi University (NCCU), Taiwan  
+  *Specializing in Text Mining and NLP*
+
+- 🎓 **Bachelor's in Information Management**  
+  National Central University (NCU), Taiwan  
+
+## 💡 Interests & Focus
+
+- 🧠 Natural Language Processing (NLP)  
+- 📊 Text Mining & Information Retrieval  
+- 🤖 AI Applications in Language and Communication  
+- 📚 Research & Data-Driven Decision Making
+
+## 🛠️ Tools & Technologies
+
+- Programming: `Python`, `Java`, `SQL`, `HTML`, `CSS`, `JS`, `C/C++`, `GO`,   
+- NLP Libraries: `spaCy`, `NLTK`, `CKIP`, `KeyBERT`, `transformers`  
+- Machine Learning: `scikit-learn`, `TensorFlow`, `PyTorch`  
+- Database: `MySQL`, `MongoDB`  
+- Others: `Flask`, `Git`, `PowerBI`, `Angular`, `GCP`
+
+## 🔬 Current Work
+
+Working on projects that apply NLP techniques to solve real-world problems in text analytics. I’m especially interested in Chinese-language NLP applications.
+
+## 🌐 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/%E7%8F%AE%E7%B6%BE-%E6%A5%8A-7a3ab8313/)
+- 📧 [Email](mailto:peigen70722@gmail.com)
+---
+
+Feel free to connect or check out some of my featured projects here on GitHub!
