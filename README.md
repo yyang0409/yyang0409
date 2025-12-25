@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pei-Ling Yang.
+# 👋 Hi! I'm Pei-Ling Yang.
 
 I’m a passionate learner and builder in the field of Information Management and Natural Language Processing (NLP). My academic journey and project experience have focused on extracting insights from unstructured data through text mining.
 
