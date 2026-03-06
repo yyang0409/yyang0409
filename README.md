@@ -20,11 +20,17 @@ I’m a passionate learner and builder in the field of Information Management an
 
 ## 🛠️ Tools & Technologies
 
-- Programming: `Python`, `Java`, `SQL`, `HTML`, `CSS`, `JS`, `C/C++`, `GO`,   
-- NLP Libraries: `spaCy`, `NLTK`, `CKIP`, `KeyBERT`, `transformers`  
-- Machine Learning: `scikit-learn`, `TensorFlow`, `PyTorch`  
-- Database: `MySQL`, `MongoDB`  
-- Others: `Flask`, `Git`, `PowerBI`, `Angular`, `GCP`
+- Programming: `Python`, `Java`, `Go`, `C`, `C++`, `HTML`, `CSS`, `JavaScript`
+- Web Frameworks: `Flask`, `Django`, `Angular`
+- Databases: `MySQL`, `MSSQL`, `MongoDB`, `ChromaDB`, `Pinecone`, `AWS OpenSearch`
+- Machine Learning: `Scikit-learn`, `TensorFlow`, `PyTorch`
+- LLM & NLP: `RAG`, `LLM Fine-tuning`, `SentenceTransformers`, `HuggingFace Transformers`
+- Data Analytics: `BigQuery`, `Power BI`, `R`
+- Cloud Platforms: `AWS`, `GCP`
+- Testing: `Cypress`, `PyTest`
+- Developer Tools: `Git`, `GitHub`
+- Operating Systems: `Windows`, `Linux`
+- Collaboration: `ClickUp`
 
 ## 🔬 Current Work
 
